@@ -46,12 +46,14 @@ This helps in visualizing UPI transaction trends across different age demographi
 - Step 8 : Visual filters (Slicers) were added for eight field named "Bankname sent", "bankname recieve", "Purpose" , "device"
 ,"City" , "Gender" , "PaymentMethod" , "TrasactionType" , "AgeGroup" & "MerchantName".
 
-  ![Slicers FR](https://github.com/Puneet1223/UPI-Dashboard2/blob/167ce23d6eb1b1e3c00d00dfea81436b02331592/slicersfr.png?raw=true)
+    ![Slicers FR](https://github.com/Puneet1223/UPI-_Data/blob/main/slicersfr.png?raw=true)
+
 
 
 - Step 9 :  Select the line chart to  displays the monthly trend of UPI transactions throughout the year 2024. It helps visualize how transaction volumes fluctuate over time, highlighting key peaks and drops.
              
-  ![Line Chart for Amount](https://github.com/Puneet1223/UPI-Dashboard2/blob/0281c324295244f5b1087016910607fdf72e52ff/line%20chart%20for%20amount.png?raw=true)
+ ![Line Chart for Amount](https://github.com/Puneet1223/UPI-_Data/blob/main/line%20chart%20for%20amount.png?raw=true)
+
 
    
 - Step 10 : Add a column chart over the line chart to visualizes the total UPI transaction amounts for each month in 2024.
@@ -64,7 +66,8 @@ A dip in August reflects a temporary drop in transaction activity.
 This chart complements the line chart by offering a strong visual comparison of month-to-month changes in total UPI payment values.
  
      
- ![Column Chart for Amount](https://github.com/Puneet1223/UPI-Dashboard2/blob/37be462615bdcc920a150916d54885300b24def0/Column%20chart%20for%20amount.png?raw=true)
+ ![Column Chart for Amount](https://github.com/Puneet1223/UPI-_Data/blob/main/Column%20chart%20for%20amount.png?raw=true)
+
 
 
 
@@ -77,7 +80,8 @@ Highlights months with low or high retained balances.
 
 This chart is useful for identifying financial peaks, declines, and potential savings patterns over the year.
  
-  ![Line Chart for Balance](https://github.com/Puneet1223/UPI-Dashboard2/blob/e5feb2f57fc33781daf1372ec6d0f0ec51b88358/line%20chart%20for%20balance%20.png?raw=true)
+  ![Line Chart for Balance](https://github.com/Puneet1223/UPI-_Data/blob/main/line%20chart%20for%20balance%20.png?raw=true)
+
 
 
 - Step 12 : Another column chart added in the same page over all three charts this column chart offers a bar-based comparison of the monthly remaining balances.
@@ -87,7 +91,8 @@ Allows easier side-by-side comparison between months.
 
 Useful for detecting sudden dips or gains in balance retention.
 
- ![Column Chart for Balance](https://github.com/Puneet1223/UPI-Dashboard2/blob/0c5818a1ead7bd73d20c56958e81f127eb6ed014/column%20chart%20for%20balance.png?raw=true)
+ ![Column Chart for Balance](https://github.com/Puneet1223/UPI-_Data/blob/main/column%20chart%20for%20balance.png?raw=true)
+
 
 
 
@@ -117,7 +122,8 @@ Users can explore data one insight at a time.
 
 Mimics a multi-page experience without switching tabs.
 
-   ![Betns Image](https://github.com/Puneet1223/UPI-Dashboard2/blob/c3f054f0c8e60d0e15036d47975488ff3c3f0f77/betns.png?raw=true)
+  ![Buttons View](https://github.com/Puneet1223/UPI-_Data/blob/main/betns.png?raw=true)
+
 
 
 - Step 14 :   To complement the visual analysis from Page 1, this page presents the same UPI transaction data in a tabular format for precise, granular insights.
@@ -135,8 +141,8 @@ Remaining Balance
 
        
  - Step 16 :  Each city’s data is displayed in its respective currency unit (EUR, USD, GBP, INR).
-
-     ![Table View](https://github.com/Puneet1223/UPI-Dashboard2/blob/f339fe7638efc2b7dd7980c8105bc19be0563cce/Table_View.png?raw=true)
+ 
+    ![Table View](https://raw.githubusercontent.com/Puneet1223/UPI-_Data/3fc6b38f2ccdd58dc40e377a6bb489479c18d918/Table_View.png)
 
  
  - Step 17 : Conditional formatting is applied to highlight significant values in "Amount" and "Remaining Balance" columns (in pink), helping quickly identify highs and lows.
